@@ -39,9 +39,8 @@
 
 ## Audit Report
 
-📄 [DSCEngine-Audit-Report.md](./DSCEngine-Audit-Report.md)
+📄 [DSCEngine-Audit-Report.pdf](https://github.com/cableGraph/dsc-audit/blob/main/dsc-audit.pdf)
 
-To generate the PDF:
 
 ```bash
 # Standard
