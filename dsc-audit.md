@@ -95,7 +95,7 @@ header-includes:
 **CableGraph Audit Group** is an independent smart contract security research practice specialising in DeFi protocol security, stablecoin systems, oracle integrations, and ERC20 token mechanics. Audit methodology combines structured multi-pass manual review, static analysis with Slither, symbolic execution with Mythril, and property-based fuzzing with Foundry invariant testing.
 
 **Lead Researcher:** Dennis Kiptoo  
-**Portfolio:** [github.com/denniskiptoo](https://github.com/cableGraph)  
+**Portfolio:** [https://github.com/cableGraph](https://github.com/cableGraph/dsc-audit)  
 **Contact:** Open to audit engagements and research collaborations.
 
 ---
