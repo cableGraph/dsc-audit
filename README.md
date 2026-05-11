@@ -55,7 +55,7 @@ pandoc DSCEngine-Audit-Report.md \
   -V fontsize=11pt \
   -V geometry:margin=1in
 
-# Cyfrin blue theme (requires eisvogel template)
+# Blue theme (requires eisvogel template)
 pandoc DSCEngine-Audit-Report.md \
   -o DSCEngine-Audit-Report.pdf \
   --pdf-engine=xelatex \
